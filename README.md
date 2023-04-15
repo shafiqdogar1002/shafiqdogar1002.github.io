@@ -12,7 +12,7 @@
   ---  
 <p align="center">
   <a href="https://youtube.com/@TechnicalNaveedOfficial?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCZx8U1EU95-Wn9mH4dn15vQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube.com/subscribers/@TechnicalNaveedOfficial?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCZx8U1EU95-Wn9mH4dn15vQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/BlackAmda?tab=repositories&sort=stargazers">

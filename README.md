@@ -1,5 +1,5 @@
 # Welcome 🤗🤗🤗
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi,%20I'm%20Black%20Amda&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi,%20I'm%20Naveed%20King&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
 
 
 <img src="https://github.com/BlackAmda/BlackAmda/blob/main/BlackAmda.gif" width="200">
